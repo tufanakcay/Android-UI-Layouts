@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
        // setContentView(R.layout.activity_main);
        // setContentView(R.layout.linearlayout);
        // setContentView(R.layout.relativelayout);
-        setContentView(R.layout.linearlayout_menu);
+        //setContentView(R.layout.linearlayout_menu);
+        setContentView(R.layout.relative_layout);
     }
 }
